@@ -285,8 +285,8 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Gustavo Ernesto Mariño Puentes',
-          cargo: 'Experto temático',
+          nombre: 'Norma Constanza Morales Cruz',
+          cargo: 'Experta temático',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
@@ -305,12 +305,12 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Manuel Felipe Echavarria Orozco',
+          nombre: 'Veimar Celis Meléndez',
           cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          nombre: 'Ernesto Navarro Jaimes',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
@@ -320,8 +320,8 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'María Fernanda Pineda Mora',
-          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
+          nombre: 'Jorge Eduardo Rueda Peña',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
