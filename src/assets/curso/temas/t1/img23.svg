@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="84" viewBox="0 0 84 84">
+  <g id="img23" transform="translate(-1103.059 -7491)">
+    <rect id="Rectangle_461168" data-name="Rectangle 461168" width="84" height="84" rx="10" transform="translate(1103.059 7491)" fill="#c2afff"/>
+    <g id="Group_1192053" data-name="Group 1192053" transform="translate(1113.059 7501.26)">
+      <path id="Path_1037260" data-name="Path 1037260" d="M27,18A17,17,0,1,0,44,35,17.019,17.019,0,0,0,27,18Zm1,31.949V47H26v2.949A15,15,0,0,1,12.051,36H15V34H12.051A15,15,0,0,1,26,20.051V23h2V20.051A15,15,0,0,1,41.949,34H39v2h2.949A15,15,0,0,1,28,49.949Z" fill="#443d59"/>
+      <path id="Path_1037261" data-name="Path 1037261" d="M53,3h2V6H53Z" fill="#443d59"/>
+      <path id="Path_1037262" data-name="Path 1037262" d="M53,16h2v3H53Z" fill="#443d59"/>
+      <path id="Path_1037263" data-name="Path 1037263" d="M59,10h3v2H59Z" fill="#443d59"/>
+      <path id="Path_1037264" data-name="Path 1037264" d="M46,10h3v2H46Z" fill="#443d59"/>
+      <path id="Path_1037265" data-name="Path 1037265" d="M57.1,5.4h3v2h-3Z" transform="translate(12.634 43.309) rotate(-45)" fill="#443d59"/>
+      <path id="Path_1037266" data-name="Path 1037266" d="M47.9,14.6h3v2h-3Z" transform="translate(3.442 39.502) rotate(-45)" fill="#443d59"/>
+      <path id="Path_1037267" data-name="Path 1037267" d="M57.6,14.1h2v3h-2Z" transform="translate(6.134 46.002) rotate(-45)" fill="#443d59"/>
+      <path id="Path_1037268" data-name="Path 1037268" d="M48.4,4.9h2v3h-2Z" transform="translate(9.942 36.809) rotate(-45)" fill="#443d59"/>
+      <path id="Path_1037269" data-name="Path 1037269" d="M27,58a23,23,0,0,1,0-46h9v2a1,1,0,0,0,1.515.857l5-3a1,1,0,0,0,0-1.714l-5-3A1,1,0,0,0,36,8v2H27A25,25,0,1,0,52,35H50A23.025,23.025,0,0,1,27,58ZM38,9.767,40.057,11,38,12.233Z" fill="#443d59"/>
+      <path id="Path_1037270" data-name="Path 1037270" d="M50,31h2v2H50Z" fill="#443d59"/>
+      <path id="Path_1037271" data-name="Path 1037271" d="M30,35a3,3,0,0,0-2-2.816V26H26v6.184A2.993,2.993,0,0,0,27,38a2.965,2.965,0,0,0,1.427-.377l3.948,3.159,1.25-1.562-3.852-3.082A2.978,2.978,0,0,0,30,35Zm-4,0a1,1,0,1,1,1,1A1,1,0,0,1,26,35Z" fill="#443d59"/>
+    </g>
+  </g>
+</svg>
