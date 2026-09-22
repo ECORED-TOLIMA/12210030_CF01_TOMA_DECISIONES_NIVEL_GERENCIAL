@@ -189,15 +189,20 @@
       .col-lg-10
         AcordionA(tipo="b" clase-tarjeta="tarjeta tema1-acordeon")
           .row(titulo="Decisiones programadas o estructuradas")
-            p.mb-0 Son aquellas repetitivas y rutinarias que se resuelven con una política, una regla o un procedimiento ya establecidos, sin necesidad de un análisis nuevo cada vez. #[strong Ejemplo:] la aprobación de las vacaciones del personal según el reglamento interno de una clínica de Neiva.
+            p Son aquellas repetitivas y rutinarias que se resuelven con una política, una regla o un procedimiento ya establecidos, sin necesidad de un análisis nuevo cada vez. 
+            p.mb-0 #[strong Ejemplo:] la aprobación de las vacaciones del personal según el reglamento interno de una clínica de Neiva.
           .row(titulo="Decisiones no programadas o no estructuradas")
-            p.mb-0 Son aquellas que no cuentan con un procedimiento estándar, porque el problema es nuevo, complejo o especialmente importante. #[strong Ejemplo:] la decisión de una fábrica de muebles de Espinal sobre si debe ingresar a un nuevo mercado en el departamento del Huila.
+            p Son aquellas que no cuentan con un procedimiento estándar, porque el problema es nuevo, complejo o especialmente importante. 
+            p.mb-0 #[strong Ejemplo:] la decisión de una fábrica de muebles de Espinal sobre si debe ingresar a un nuevo mercado en el departamento del Huila.
           .row(titulo="Decisiones semiestructuradas")
-            p.mb-0 Son aquellas que comparten características de ambas categorías. Parte del proceso puede formalizarse, pero otro requiere juicio y discernimiento del directivo. #[strong Ejemplo:] la negociación de condiciones especiales con un proveedor estratégico.
+            p Son aquellas que comparten características de ambas categorías. Parte del proceso puede formalizarse, pero otro requiere juicio y discernimiento del directivo. 
+            p.mb-0 #[strong Ejemplo:] la negociación de condiciones especiales con un proveedor estratégico.
     p.mb-4 Las tres categorías forman un continuo, no compartimentos cerrados, ya que una decisión que hoy es no programada puede volverse semiestructurada cuando la organización acumula experiencia y define criterios. La consecuencia práctica es que la gerencia debe revisar de forma periódica qué decisiones puede convertir en procedimiento. El nivel de estructuración responde a cómo se decide; la segunda clasificación, por alcance temporal, responde a cuánto compromete lo decidido.
-    .tema1-frase.p-4.mb-4
-      img(src="@/assets/curso/temas/t1/img21.svg" alt="")
-      p.mb-0.fw-bold.text-center Convertir en procedimiento las decisiones que se repiten no es burocracia, sino la forma de liberar el juicio directivo para las que todavía no tienen regla. Una gerencia madura se reconoce por cuántas decisiones ha logrado dejar de tomar.
+    .row.justify-content-center.align-items-center
+      .col-lg-10
+        .tema1-frase.p-4.mb-4
+          img(src="@/assets/curso/temas/t1/img21.svg" alt="")
+          p.mb-0.fw-bold.text-center Convertir en procedimiento las decisiones que se repiten no es burocracia, sino la forma de liberar el juicio directivo para las que todavía no tienen regla. Una gerencia madura se reconoce por cuántas decisiones ha logrado dejar de tomar.
 
     .titulo-pastilla.mb-4
       img(src="@/assets/curso/icon.svg" alt="")
