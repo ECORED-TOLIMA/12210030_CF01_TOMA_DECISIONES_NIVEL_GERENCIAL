@@ -286,7 +286,7 @@ export default {
       autores: [
         {
           nombre: 'Norma Constanza Morales Cruz',
-          cargo: 'Experta temático',
+          cargo: 'Experta temática',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
